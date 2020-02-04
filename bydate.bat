@@ -1,0 +1,1 @@
+forfiles /p "C:\Users\eric\Desktop\新建文件夹 (3)" /s /m *.*  /c "cmd /c c:\m\filebydate.exe @path"
